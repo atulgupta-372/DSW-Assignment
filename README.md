@@ -26,14 +26,14 @@ This project is designed to assist **Non-Banking Financial Companies (NBFCs)** i
 - **Features**:
   - Utilizes **SMOTE** to balance the dataset.
   - Provides **feature importance insights** for decision-making.
-- **Accuracy**: **88.5%**
+- **Accuracy**: **89.79%**
 
 ### 2️⃣ XGBoost Classifier ⚡
 - **Why Use It?**: Optimized for performance and scalability.
 - **Features**:
   - Hyperparameter tuning using **GridSearchCV**.
   - Delivers robust predictions and scalability.
-- **Accuracy**: **92.3%**
+- **Accuracy**: **90.69%**
 
 ---
 
